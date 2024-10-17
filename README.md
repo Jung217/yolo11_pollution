@@ -4,6 +4,7 @@ As title.
 ##  Training Records
 1. epochs=10 batch=10 >>> train
 2. epochs=20 batch=10 >>> train2
+3. epochs=30 batch=10 device='mps' >>> train3
 
 ## Result
 <img src="runs/detect/train4/results.png" >
